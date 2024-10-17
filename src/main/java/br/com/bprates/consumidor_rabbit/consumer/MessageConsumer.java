@@ -1,6 +1,6 @@
-package br.com.bprates.consumidor_rabbit;
+package br.com.bprates.consumidor_rabbit.consumer;
 
-import br.com.bprates.consumidor_rabbit.RabbitMQConfig;
+import br.com.bprates.consumidor_rabbit.config.RabbitMQConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
